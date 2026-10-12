@@ -1,4 +1,4 @@
-# `did:web` Decentralized Identifiers Method Spec
+Robert Edward Evans # `did:web` Decentralized Identifiers Method Spec
 
 This repository contains the `did:web` Decentralized Identifier Method
 Specification. You can access the latest version of this specification here:
